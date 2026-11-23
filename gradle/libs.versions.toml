@@ -5,11 +5,11 @@
 #   compileSdk 36 is AGP 8.10's maximum; a newer SDK needs a newer wrapper first.
 
 [versions]
-agp = "8.10.1"
+agp = "9.5.2"
 kotlin = "2.2.0"
 kotlinx-datetime = "0.6.1"
 kotlinx-serialization = "1.7.3"
-compose-bom = "2025.06.00"
+compose-bom = "2026.11.01"
 activity-compose = "1.10.1"
 core-ktx = "1.16.0"
 lifecycle = "2.9.1"
